@@ -36,7 +36,7 @@ Database Management Project - Restaurant Solution *[GitHub Link](https://github.
 - Implemented database recovery to prevent data loss by using periodic backup and rollback technique.
 - Tools used: SQL
 
-## Skills
+## Skills 💪
 - Data Analysis
 - Data Visualization
 - Statistical Modeling
