@@ -25,7 +25,7 @@ Business Intelligent Project - Machine Learning  *[GitHub Link](https://github.c
 - Performed predictive modeling, forecasting, and data visualization, by using Python and R.
 - Improved the accuracy of the models by using bagging and boosting methods to provide effective business solutions.
 
-Database Management Project - Restaurant Solution *[GitHub Link]([https://github.com/petertaing/business-intelligent-project-machine-learning.git](https://github.com/petertaing/database-management-project.git))*
+Database Management Project - Restaurant Solution *[GitHub Link](https://github.com/petertaing/database-management-project.git)*
 - Built a restaurant database from conceptual to physical database design with over 10 entities that can store, organize, and retrieve the data accurately and effectively using SQL.
 - Implemented database recovery to prevent data loss by using periodic backup and rollback technique.
 
