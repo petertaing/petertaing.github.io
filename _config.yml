@@ -1,5 +1,7 @@
 #title: Peter Taing
 logo: /assets/img/headshot.jpg
-#description: Passionate data analyst with expertise in R, Python, SQL, and statistical analysis. Experienced in leveraging data to drive business insights and decision-making. Skilled in data visualization and machine learning techniques.
+description:
+- Email: tpeter0701@gmail.com
+- [LinkedIn](www.linkedin.com/in/peter-taing)
 #show_downloads: true
 theme: jekyll-theme-minimal
