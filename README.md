@@ -20,7 +20,8 @@ Data Analyst Intern @ Heritage Realty Group
 
 
 ## Projects
-Business Intelligent Project - Machine Learning [https://github.com/petertaing/business-intelligent-project-machine-learning.git]
+Business Intelligent Project - Machine Learning 
+[https://github.com/petertaing/business-intelligent-project-machine-learning.git]
 - Implemented data mining techniques such as classification, numeric prediction, clustering, and association rule mining on various business cases, including healthcare, transportation, and education, by using Python and R.
 - Performed predictive modeling, forecasting, and data visualization, by using Python and R.
 - Improved the accuracy of the models by using bagging and boosting methods to provide effective business solutions.
