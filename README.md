@@ -24,6 +24,7 @@ Business Intelligent Project - Machine Learning
 - Implemented data mining techniques such as classification, numeric prediction, clustering, and association rule mining on various business cases, including healthcare, transportation, and education, by using Python and R.
 - Performed predictive modeling, forecasting, and data visualization, by using Python and R.
 - Improved the accuracy of the models by using bagging and boosting methods to provide effective business solutions.
+[Github link: https://github.com/petertaing/business-intelligent-project-machine-learning.git]
 
 Database Management Project - Restaurant Solution
 - Built a restaurant database from conceptual to physical database design with over 10 entities that can store, organize, and retrieve the data accurately and effectively using SQL.
