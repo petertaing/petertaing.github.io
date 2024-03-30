@@ -44,7 +44,7 @@ Database Management Project - Restaurant Solution *[GitHub Link](https://github.
 - Database Management
 - Predictive Analytics
 
-## Let's Connect
+## Let's Connect 🤝
 I'm always interested in discussing data-related projects, collaborations, or just connecting with fellow data enthusiasts. Feel free to reach out to me via:
 
 - Email: tpeter0701@gmail.com
